@@ -1,0 +1,68 @@
+html  
+
+head : page data
+
+meta 
+
+title : titre de la page
+
+body : contenu de la page
+
+style : ajouter css
+
+script : ajouter js
+
+img : image
+
+p : paragraphe
+
+div : division
+
+b : bold ( en gras)
+
+input : (champs a saisir)
+
+a : liens
+
+h1 h2 h3 h4 h5 h6 : titres de niveaux 1 a 6
+
+section 
+
+link : lier d'autres fichiers
+
+doctype
+
+nav
+
+footer
+
+header
+
+noscript : affiche un message si le navigateur ne supporte pas js
+
+button 
+
+span : partie du texte 
+
+ul : liste
+
+li : element de la liste
+
+ol : ordred list
+
+main
+
+svg : image de type svg
+
+form : formulaire (input textarea)
+
+code : sous form de code
+
+iframe : 
+
+video 
+
+icon
+
+i : italic 
+
